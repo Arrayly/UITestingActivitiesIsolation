@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UI Testing</string>
+    <string name="navigate">Button</string>
+    <string name="main_activity">Main Activity</string>
+</resources>
